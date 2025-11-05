@@ -17,7 +17,7 @@
 
 ### Links
 
-- Solution URL: [Escaping the Maze](https://github.com/Mikerniker/100_Days_of_Python/tree/main/Day6)
+- Solution URL: [Escaping the Maze](https://github.com/Rahul935980/100-days-of-python/blob/main/Day_6_Escaping%20_Maze/main.py)
 
 ## Notes
 
