@@ -38,4 +38,3 @@ print(total_bids)
 
 
 
-
