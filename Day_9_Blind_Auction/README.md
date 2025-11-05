@@ -17,7 +17,7 @@
 
 ### Links
 
-- Solution URL: [Silent Auction Program](https://github.com/Mikerniker/100_Days_of_Python/tree/main/Day9)
+- Solution URL: [Silent Auction Program](https://github.com/Rahul935980/100-days-of-python/blob/main/Day_9_Blind_Auction/main.py)
 
 ## Notes
 
