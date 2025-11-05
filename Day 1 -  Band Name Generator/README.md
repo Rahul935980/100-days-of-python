@@ -21,7 +21,7 @@
 
 ## Notes
 
-- Notes: This is the final project for Day 1 of Angela Yu's 100 Days of Code: The Complete Python Pro Bootcamp for 2022 
+- Notes: This is the final project for Day 1 of Angela Yu's 100 Days of Code: The Complete Python Pro Bootcamp.
 - Small changes made to the original project, used food instead of pets, and used .capitalize() method. 
 
 ### Built with
