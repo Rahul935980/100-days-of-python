@@ -17,7 +17,7 @@
 
 ### Links
 
-- Solution URL: [Tip Calculator](https://github.com/Mikerniker/100_Days_of_Python/tree/main/Day2)
+- Solution URL: [Tip Calculator](https://github.com/Rahul935980/100-days-of-python/blob/main/Day%202%20-Tip%20Calculator/main.py)
 
 ### Built with
 
