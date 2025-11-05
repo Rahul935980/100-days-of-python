@@ -16,7 +16,7 @@
 
 ### Links
 
-- Solution URL: [Password Generator](https://github.com/Mikerniker/100_Days_of_Python/tree/main/Day5)
+- Solution URL: [Password Generator](https://github.com/Rahul935980/100-days-of-python/blob/main/Day_5_Password_generator/main.py)
 
 
 ### Built with
