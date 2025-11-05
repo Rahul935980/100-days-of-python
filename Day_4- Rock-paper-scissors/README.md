@@ -19,7 +19,7 @@
 
 ### Links
 
-- Solution URL: [Rock Paper Scissors](https://github.com/Mikerniker/100_Days_of_Python/tree/main/Day4)
+- Solution URL: [Rock Paper Scissors](https://github.com/Rahul935980/100-days-of-python/blob/main/Day_4-%20Rock-paper-scissors/main.py)
 
 ## Notes
 
