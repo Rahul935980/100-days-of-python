@@ -17,7 +17,7 @@
 
 ### Links
 
-- Solution URL: [Band Name Generator](https://github.com/Mikerniker/100_Days_of_Python/tree/main/Day1)
+- Solution URL: [Band Name Generator](https://github.com/Rahul935980/100-days-of-python/blob/main/Day%201%20-%20%20Band%20Name%20Generator/README.md)
 
 ## Notes
 
