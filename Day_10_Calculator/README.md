@@ -17,7 +17,7 @@
 
 ### Links
 
-- Solution URL: [Text-Based Calculator](https://github.com/Mikerniker/100_Days_of_Python/tree/main/Day10)
+- Solution URL: [Text-Based Calculator](https://github.com/Rahul935980/100-days-of-python/blob/main/Day_10_Calculator/main.py)
 
 ## Notes
 
